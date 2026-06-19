@@ -1,0 +1,6 @@
+automate
+autoxmate
+dist/
+*.exe
+.DS_Store
+*.kismet
